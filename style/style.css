@@ -1,0 +1,12 @@
+#form{
+    width: 400px;
+}
+
+#form input, textarea{
+    width: 300px;
+    float: right;
+}
+
+#form label{
+    margin: 20px 0;
+}
